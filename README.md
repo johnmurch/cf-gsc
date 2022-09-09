@@ -23,11 +23,11 @@ This codebase leverages [https://github.com/kwhitley/itty-router](https://github
 ![Builder](screenshot-builder-ui.png)
 
 # Set up
-You will need to setup an API key via [https://console.cloud.google.com/apis/credentials?project=XXXX](Google) Do not forget to update the environment variables in wrangler.toml file
+You will need to setup an API key via [Google](https://console.cloud.google.com/apis/credentials?project=XXXX) Do not forget to update the environment variables in wrangler.toml file
 
 # Thanks
-This repo was sparked from this [https://twitter.com/DataChaz/status/1565432139197325315](twitter thread), 
-so special thanks to the following:
-* Charly Wargnier [https://twitter.com/DataChaz](@DataChaz)
-* Greg Bernhardt [https://twitter.com/GregBernhardt4](@GregBernhardt4)
-* JC Chouinard [https://twitter.com/ChouinardJC](@ChouinardJC)
+This repo was sparked from this [Twitter Thread](https://twitter.com/DataChaz/status/1565432139197325315])
+Special thanks to the following:
+* Charly Wargnier [@DataChaz](https://twitter.com/DataChaz)
+* Greg Bernhardt [@GregBernhardt4](https://twitter.com/GregBernhardt4)
+* JC Chouinard [@ChouinardJC](https://twitter.com/ChouinardJC)
