@@ -1,0 +1,8 @@
+name = "cf-gsc"
+main = "src/index.js"
+compatibility_date = "2022-09-08"
+[vars]
+CLIENT_ID = "" # Get from https://console.cloud.google.com/apis/credentials?project=
+CLIENT_SECRET = "" # Get from https://console.cloud.google.com/apis/credentials?project=
+REDIRECT_URI = "http://localhost:8787/auth/google"
+BASE_URL = "http://localhost:8787"
